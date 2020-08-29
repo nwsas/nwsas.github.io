@@ -4,7 +4,7 @@ v-layout
     align="center"
     justify="center"
   )
-    nws-logo(animate :width="400")
+    nws-logo.ma-12(animate :width="400")
 </template>
 
 <script>

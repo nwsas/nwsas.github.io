@@ -127,4 +127,7 @@ export default {
 }
 </script>
 
-<style lang="stylus" scoped></style>
+<style lang="stylus" scoped>
+svg
+  max-width 100%
+</style>
