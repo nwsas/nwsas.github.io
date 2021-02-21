@@ -14,5 +14,5 @@ export default {
 <style lang="stylus" scoped>
 .v-application
   .container
-    background #517bc2
+    background #092447
 </style>
