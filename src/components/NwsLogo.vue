@@ -45,7 +45,7 @@ svg(
       rect(
         width="304"
         height="25"
-        fill="#517bc2"
+        fill="#092447"
         transform="translate(93 80)"
       )
     //- NWS
