@@ -1,18 +1,16 @@
 <template lang="pug">
 v-app
   v-main
-    v-container(fluid fill-height)
-      router-view
+    Nuxt
 </template>
 
 <script>
 export default {
-  name: 'App'
+  name: 'DefaultLayout'
 }
 </script>
 
 <style lang="stylus" scoped>
 .v-application
-  .container
-    background #092447
+  background #092447
 </style>
