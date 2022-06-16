@@ -8,7 +8,7 @@
     ) mdi-arrow-down-drop-circle-outline
 
   v-container.pa-0
-    v-card.rounded-xl.ma-12.pa-6
+    v-card.rounded-xl.ma-6.pa-6
       .text-h4 Vi bygger der behovene finnes!
       .text-body-1.my-6
         | Norwegian Web Services AS eksisterer for å bygge små og middels store nettbaserte tjenester der behov oppstår.
