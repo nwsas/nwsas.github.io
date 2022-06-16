@@ -15,7 +15,7 @@
         | En passiv inntektsmodell, ofte i form av abonnementsløsninger, skaper maksimal verdi til minimalt vedlikehold.
       .text-body-1.mb-6
         | Vi er et litet team på tre personer med nødvendig spisskompetanse innen utvikling og markedsføring. Tjenester
-        | var har produsert og som er live i dag er&nbsp;
+        | vi har produsert og som er live i dag er&nbsp;
         a(
           href="https://www.xn--reservertsk-pgb.no/"
           target="_new"
