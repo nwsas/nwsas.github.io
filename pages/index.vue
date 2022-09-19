@@ -8,19 +8,13 @@
     ) mdi-arrow-down-drop-circle-outline
 
   v-container.pa-0
-    v-card.rounded-xl.ma-6.pa-6
+    v-card.rounded-xl.ma-6.mb-16.pa-6
       .text-h4 Vi bygger der behovene finnes!
       .text-body-1.my-6
         | Norwegian Web Services AS eksisterer for å bygge små og middels store nettbaserte tjenester der behov oppstår.
         | En passiv inntektsmodell, ofte i form av abonnementsløsninger, skaper maksimal verdi til minimalt vedlikehold.
       .text-body-1.mb-6
-        | Vi er et litet team på tre personer med nødvendig spisskompetanse innen utvikling og markedsføring. Tjenester
-        | vi har produsert og som er live i dag er&nbsp;
-        a(
-          href="https://www.xn--reservertsk-pgb.no/"
-          target="_new"
-        ) reservertsøk.no
-        | .
+        | Vi er et litet team på tre personer med nødvendig spisskompetanse innen utvikling og markedsføring.
 
       v-list-item.px-0(two-line)
         v-list-item-avatar.my-0.rounded-xl(size="60" tile)
@@ -79,7 +73,4 @@ export default {
 
   .container
     max-width 800px
-
-    a
-      text-decoration none !important
 </style>
